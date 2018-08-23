@@ -58,6 +58,39 @@
 +++
 -Familiar Examples? 
 <iframe class="stretch" data-src="https://centerforgis.maps.arcgis.com/apps/Cascade/index.html?appid=08c2849d3f1649758e40b8cfa67d0248"></iframe>
++++
+<iframe class="stretch" data-src="https://centerforgis.maps.arcgis.com/apps/MapSeries/index.html?appid=e7fd5854dbab435b944c27913df01980"></iframe>
++++
+<iframe class="stretch" data-src="https://centerforgis.maps.arcgis.com/apps/Cascade/index.html?appid=307e73fffa6f4206b9d356459998b607"></iframe>
+---
+##### GIS Resources @ UofL
+- UofL Center for GIS
+> Established in 1996, the mission of the University of Louisville Center for Geographic Information Sciences is to provide instruction, applications, and research in geographic information systems technology.  The resources of the Center for GIS are available to professional staff, students, and faculty to provide service and products to individuals and agencies of the University, and the local and state community.
++++
+- Maintain software licenses and hardware
+- Support faculty and student research
+- Offer training, both academic courses and web-based tutorials
+- Data liasion: can help you find the data you are looking for
+---
+##### ESRI Software
+- Proprietary GIS softwares for desktop/server/cloud
+- ArcGIS for Desktop
+  - installed on all machines in LU224/225
+  - also available in Ekstrom Library
+  - students: entitled to free 1-year trial for home use
++++
+- ArcGIS Online
+  - Cloud-based GIS
+  - Story Maps live here
+  - Public account is free...just visit https://www.arcgis.com
+  - Organizational account: more capabilities
+    - invitation only (send me an email at djbidd01@louisville.edu)
++++	
+- Training
+  - https://www.esri.com/training 
+  - All web courses free to students
+  - Also by invite only! (email me for this as well)
+  - Take a class! GEOG558/559 are primary GIS courses
 
 	
 
