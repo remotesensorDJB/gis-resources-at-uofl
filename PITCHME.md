@@ -65,7 +65,7 @@
 ---
 ##### GIS Resources @ UofL
 - UofL Center for GIS
-> Established in 1996, the mission of the University of Louisville Center for Geographic Information Sciences is to provide instruction, applications, and research in geographic information systems technology.  The resources of the Center for GIS are available to professional staff, students, and faculty to provide service and products to individuals and agencies of the University, and the local and state community.
+> @size[.6em](Established in 1996, the mission of the University of Louisville Center for Geographic Information Sciences is to provide instruction, applications, and research in geographic information systems technology.  The resources of the Center for GIS are available to professional staff, students, and faculty to provide service and products to individuals and agencies of the University, and the local and state community.)
 +++
 - Maintain software licenses and hardware
 - Support faculty and student research
