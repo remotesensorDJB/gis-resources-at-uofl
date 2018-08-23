@@ -1,0 +1,5 @@
+theme : white
+theme-override : PITCHME.css
+background : images/Sarlon_Topography-433919_grey.jpg
+transition : slide
+logo : images/logo-CGIS_black-50.png
