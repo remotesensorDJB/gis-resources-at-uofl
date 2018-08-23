@@ -2,7 +2,7 @@
 ### GIS/Geospatial Technology 
 ### Resources
 #### @ UofL
-@fa[fa-globe-americas]
+@fa[globe-americas]
 ###### D.J. Biddle, GISP
 ---
 @title[the plan]
