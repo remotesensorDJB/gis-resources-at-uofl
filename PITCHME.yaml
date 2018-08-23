@@ -2,4 +2,4 @@ theme : white
 theme-override : PITCHME.css
 background : images/Topographic-Map-5.png
 transition : slide
-logo : images/logo-CGIS_black-50.png
+logo : images/ulcgis.png
