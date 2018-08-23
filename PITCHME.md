@@ -39,6 +39,25 @@
 - Map from: https://www.nj.gov/dep/cmp/czm_cvi.html 
 ![Risk Mapping](images/risk.jpg | width=75)
 - Map from: https://www.nj.gov/dep/cmp/czm_cvi.html 
+##### Demographic Analysis
+- Where are vulnerable populations located?
+- How do environmental hazards differential impact different social groups
+- Environmental Justice? 
++++
+![](images/demographic.JPG)
++++
+![](images/env_justice.JPG)
+---
+##### Information Dissemination/Storytelling
+- Story Maps convey place-based narratives about a topic or idea
+- Mashups of maps, text, and multimedia in an interactive web applications
+- Effective and engaging communication in a web browser
+- https://storymaps.esri.com
+#####
++++
+-Familiar Examples? 
+<iframe class="stretch" data-src="http://centerforgis.maps.arcgis.com/apps/Cascade/index.html?appid=08c2849d3f1649758e40b8cfa67d0248"></iframe>
+
 	
 
 
