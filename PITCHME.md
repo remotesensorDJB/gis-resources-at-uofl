@@ -21,5 +21,23 @@
 ![GIS Database Link](images/link.png)
 +++
 ![GIS Applications](images/gis-applications.jpg)
+### GIS Support for Environmental Policy 
+### Research and Practice
++++
+##### Asset Mapping
+- Data collection using GPS equipment
+- Digitized from existing plans/blueprints
+- Provide representation of spatial distribution of assets/hazards
++++
+![Fire Map](images/firemap.jpg)
+---
+##### Risk/Vulnerability Modeling
+- Combine various natural and social components of risk or vulnerability to environmental hazards to provide composite picture of risk/vulnerability.
+- Reduce technical information into more meaningful and actionable knowledge for decision/policy makers
++++
+![Risk Mapping](images/risk.jpg)
+- Map from: https://www.nj.gov/dep/cmp/czm_cvi.html 
+
+
 
  
