@@ -21,6 +21,7 @@
 ![GIS Database Link](images/link.png)
 +++
 ![GIS Applications](images/gis-applications.jpg)
+---
 ### GIS Support for Environmental Policy 
 ### Research and Practice
 +++
