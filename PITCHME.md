@@ -29,7 +29,7 @@
 - Digitized from existing plans/blueprints
 - Provide representation of spatial distribution of assets/hazards
 +++
-![Fire Map](images/firemap.jpg)
+![Fire Map](images/firemap.JPG)
 ---
 ##### Risk/Vulnerability Modeling
 - Combine various natural and social components of risk or vulnerability to environmental hazards to provide composite picture of risk/vulnerability.
@@ -37,7 +37,7 @@
 +++
 ![Risk Mapping](images/risk.jpg)
 - Map from: https://www.nj.gov/dep/cmp/czm_cvi.html 
-
+	
 
 
  
