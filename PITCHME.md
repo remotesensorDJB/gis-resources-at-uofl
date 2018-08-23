@@ -39,6 +39,7 @@
 - Map from: https://www.nj.gov/dep/cmp/czm_cvi.html 
 ![Risk Mapping](images/risk.jpg | width=75)
 - Map from: https://www.nj.gov/dep/cmp/czm_cvi.html 
+---
 ##### Demographic Analysis
 - Where are vulnerable populations located?
 - How do environmental hazards differential impact different social groups
