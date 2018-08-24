@@ -4,6 +4,7 @@
 #### @ UofL
 @fa[globe-americas]
 ###### D.J. Biddle, GISP
+###### Use the @fa[angle-down] and @fa[angle-right] arrows to navigate
 ---
 @title[the plan]
 ### the plan
@@ -116,7 +117,7 @@ https://ejscreen.epa.gov/mapper/
 - https://qgis.org/ (Open Source Desktop GIS)
 +++
 @title[questions?]
-###Any questions? 
+### Any questions? 
 Please email me at <djbidd01@louisville.edu>
 
 	
