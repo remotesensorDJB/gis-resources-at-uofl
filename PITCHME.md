@@ -113,6 +113,9 @@
 - https://storymaps.arcgis.com
 - https://storymap.knightlab.com/ (Open Source Story Mapping)
 - https://qgis.org/ (Open Source Desktop GIS)
++++
+@title[questions?]
+Please email me at [djbidd01@louisville.edu]: djbidd01@louisville.edu
 
 	
 
