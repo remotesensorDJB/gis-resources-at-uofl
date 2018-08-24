@@ -54,7 +54,8 @@
 ![](images/demographic.JPG)
 +++
 @title[environmental justice example]
-![](images/env_justice.JPG)
+https://ejscreen.epa.gov/mapper/
+![](images/env_justice.JPG | width=70)
 ---
 ##### information dissemination/storytelling
 - Story Maps convey place-based narratives about a topic or idea
@@ -115,6 +116,7 @@
 - https://qgis.org/ (Open Source Desktop GIS)
 +++
 @title[questions?]
+###Any questions? 
 Please email me at <djbidd01@louisville.edu>
 
 	
